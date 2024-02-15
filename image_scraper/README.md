@@ -13,3 +13,4 @@ This image scraper was developed using the Scrapy framework with Python. It is d
 <li>Run the Crawler</li>
 <li>To start the crawler, use the following command: scrapy crawl image_spider</li>
 </ol>
+Images scraped by the crawler will be stored in the images directory.
